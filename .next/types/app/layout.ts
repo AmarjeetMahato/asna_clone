@@ -1,4 +1,4 @@
-// File: C:\Users\User\OneDrive\Desktop\asana-clone\app\layout.tsx
+// File: C:\Users\User\OneDrive\Desktop\asna_clone\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
